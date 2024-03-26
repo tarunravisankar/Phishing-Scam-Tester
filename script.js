@@ -1,12 +1,12 @@
 const emails = [
     {
         subject: "Urgent: Security Alert - Action Required",
-        content: "Dear [Your Name],<br><br>We have detected suspicious activity on your account and it requires immediate attention. To secure your account, please click the link below to verify your identity:<br><br>Link: <a href='https://www.amaz0n.com' class='fake-link' title='https://www.amazon.com'>Click Here</a><br><br>Please act promptly to avoid any further complications. If you have any questions or concerns, don't hesitate to contact our support team.<br><br>Thank you for your cooperation.<br><br>Sincerely,<br>Amazon Support",
+        content: "Dear [Your Name],<br><br>We have detected suspicious activity on your account and it requires immediate attention. To secure your account, please click the link below to verify your identity:<br><br>Link: <a href='https'//www.amaz0n.com' class='fake-link' title='https'://www.amaz0n.com'>Click Here</a><br><br>Please act promptly to avoid any further complications. If you have any questions or concerns, don't hesitate to contact our support team.<br><br>Thank you for your cooperation.<br><br>Sincerely,<br>Amazon Support",
         phishing: true
     },
     {
         subject: "Account Verification Required",
-        content: "Dear [Your Name],<br><br>Your account is due for verification. Failure to verify your account within 24 hours may result in suspension. Please click the link below to proceed with the verification process:<br><br>Link: <a href='https://www.apple-com.io' class='fake-link' title='https://www.apple.com'>Click Here</a><br><br>Regards,<br>Apple Support",
+        content: "Dear [Your Name],<br><br>Your account is due for verification. Failure to verify your account within 24 hours may result in suspension. Please click the link below to proceed with the verification process:<br><br>Link: <a href='httpx://www.apple-com.io' class='fake-link' title='httpx://www.apple-com.io'>Click Here</a><br><br>Regards,<br>Apple Support",
         phishing: true
     },
     {
@@ -21,17 +21,17 @@ const emails = [
     },
     {
         subject: "You've Won a Prize!",
-        content: "Congratulations [Your Name],<br><br>You've been selected as the lucky winner of our prize giveaway! To claim your prize, please click the link below:<br><br>Link: <a href='https://www.prize-givewayay.cm' class='fake-link' title='https://www.prize-giveaway.com'>Click Here</a><br><br>Don't miss out on this opportunity!<br><br>Best regards,<br>Prize Giveaway Team",
+        content: "Congratulations [Your Name],<br><br>You've been selected as the lucky winner of our prize giveaway! To claim your prize, please click the link below:<br><br>Link: <a href='hxtps://www.prize-givewayay.cm' class='fake-link' title='hxtps://www.prize-givewayay.cm'>Click Here</a><br><br>Don't miss out on this opportunity!<br><br>Best regards,<br>Prize Giveaway Team",
         phishing: true
     },
     {
         subject: "Important: Action Required - IRS Tax Refund Notification",
-        content: "Dear Taxpayer,<br><br>We are pleased to inform you that your IRS tax refund is ready for processing. To expedite the refund process, please click the link below to verify your tax information:<br><br>Link: <a href='hxxp://irs-refund-verification.com' class='fake-link' title='https://www.irs.gov/refunds'>Verify Tax Information</a><br><br>If you have any questions or concerns, please contact our IRS support team at 1-800-123-4567.<br><br>Thank you for your cooperation.<br><br>Sincerely,<br>IRS Support",
+        content: "Dear Taxpayer,<br><br>We are pleased to inform you that your IRS tax refund is ready for processing. To expedite the refund process, please click the link below to verify your tax information:<br><br>Link: <a href='hxxp://irs-refund-verification.com' class='fake-link' title='hxxp://irs-refund-verification.com'>Verify Tax Information</a><br><br>If you have any questions or concerns, please contact our IRS support team at 1-800-123-4567.<br><br>Thank you for your cooperation.<br><br>Sincerely,<br>IRS Support",
         phishing: true
     },
     {
         subject: "Important Account Update Required",
-        content: "Dear [Your Name],<br><br>We've noticed unusual activity on your account. To secure your account, please log in and update your information immediately:<br><br>Link: <a href='hxxps://www.update-acount.com' class='fake-link' title='https://www.update-account.com'>Click Here</a><br><br>Regards,<br>Account Security Team",
+        content: "Dear [Your Name],<br><br>We've noticed unusual activity on your account. To secure your account, please log in and update your information immediately:<br><br>Link: <a href='hxxps://www.update-acount.com' class='fake-link' title='hxxps://www.update-acount.com'>Click Here</a><br><br>Regards,<br>Account Security Team",
         phishing: true
     },
     {
@@ -46,7 +46,7 @@ const emails = [
     },
     {
         subject: "Urgent: Account Suspension Notice",
-        content: "Dear [Your Name],<br><br>Your account has been flagged for suspicious activity and will be suspended if not resolved immediately. Click the link below to verify your account details:<br><br>Link: <a href='hxxps://www.account-verIfy.c0m' class='fake-link' title='https://www.account-verify.com'>Click Here</a><br><br>Regards,<br>Account Management Team",
+        content: "Dear [Your Name],<br><br>Your account has been flagged for suspicious activity and will be suspended if not resolved immediately. Click the link below to verify your account details:<br><br>Link: <a href='hxxps://www.account-verIfy.c0m' class='fake-link' title='hxxps://www.account-verIfy.c0m'>Click Here</a><br><br>Regards,<br>Account Management Team",
         phishing: true
     }
     
